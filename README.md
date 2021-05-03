@@ -11,8 +11,6 @@
 6. Ketik perintah **php artisan key:generate**
 7. Buat database dengan nama yang sama di file **.env** bagian **DB_DATABASE**
 8. Jalankan perintah **php artisan migrate**
-9. Lalu jalankan perintah **php artisan db:seed**
-10. Jalankan perintah **php artisan storage:link**
 
 Note: Aplikasi belum selesai sepenuhnya, jadi masih ada bagian yang kosong/rusak.
 Bila menemukan kendala/bug, harap lapor ke **AJI SUKMA NAGARA** kelas **XI RPL 2**
